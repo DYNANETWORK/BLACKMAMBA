@@ -7,13 +7,13 @@
                        
 ıllıllı⭐🌟 d͙e͙p͙l͙o͙y͙ 🌟⭐ıllıllı
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SUKHPAL443/BLACKMAMBASUKHBOT)
-<p><a href=https://github.com/SUKHPAL443/BLACKMAMBASUKHBOT> <img src="https://img.shields.io/badge/Deploy%20To%20Railway-blueviolet?style=for-the-badge&logo=railway" width="200""/></a></p>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SUKHPAL443/BLACKMAMBA)
+<p><a href=https://github.com/SUKHPAL443/BLACKMAMBA> <img src="https://img.shields.io/badge/Deploy%20To%20Railway-blueviolet?style=for-the-badge&logo=railway" width="200""/></a></p>
 
 ıllıllı⭐🌟 C͙R͙E͙D͙I͙T͙S͙ 🌟⭐ıllıllı
 
 [.](https://heroku.com/deploy)
- Credits - [DEADLY-FIGHTERS](https://t.me/DEADLY-FIGHTERS)
+ Credits - [BLACK MAMBA](https://t.me/MAMBA_STAR)
 
  CONTACT ME ON TELEGRAM:>>>>>>>
  [![Owner](https://telegra.ph/file/3af984f455d98e274ea1b.jpg)](https://t.me/MAMBA_STAR)
